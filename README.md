@@ -2,9 +2,18 @@
 
 An AI lead discovery workflow for finding buyer-intent posts across public platforms and routing qualified opportunities into review.
 
+## Public Case Study
+
+https://flashcoding.ca/projects/findleads-ca/
+
 ## Live Website
 
 https://findleads.ca/
+
+## Built By
+
+Flash Coding  
+https://flashcoding.ca/
 
 ## Project Type
 
